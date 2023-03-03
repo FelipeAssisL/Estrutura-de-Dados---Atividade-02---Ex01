@@ -7,7 +7,6 @@ import Controller.OperacoesController;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		OperacoesController soma = new OperacoesController();
 		
 		Scanner sc = new Scanner(System.in);
